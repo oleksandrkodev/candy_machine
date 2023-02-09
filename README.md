@@ -225,7 +225,7 @@ REACT_APP_SOLANA_NETWORK=devnet
 
 This identifies the Solana network you want to connect to. Options are `devnet`, `testnet`, and `mainnet`.
 
-```
+```'''''''
 REACT_APP_SOLANA_RPC_HOST=https://explorer-api.devnet.solana.com
 ```
 
